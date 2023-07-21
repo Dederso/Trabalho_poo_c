@@ -1,5 +1,7 @@
 # Trabalho_poo_c
 Trabalho de POO em c++
+Autores: André Barros e Enzo Tristão
+
 
 Coloque os arquivos csv junto dos arquivos .cpp e .h e, utilizando o makefile, use:
 make : compila o programa
